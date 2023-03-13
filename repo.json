@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "uriopener",
+    "Description": "open the uri where the cursor is on",
+    "Tags": [
+      "URI", "URL", "browser", "web"
+    ],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/zongou/micro-uriopenerarchive/v1.0.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]
